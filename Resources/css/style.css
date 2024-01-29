@@ -17,3 +17,16 @@ h6 {
     font-size: 16;
     text-decoration: underline;
 }
+
+h2 {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h4 {
+    color: grey;
+    font-family: Verdana;
+    font-size: 21px;
+}
